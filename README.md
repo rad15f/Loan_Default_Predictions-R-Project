@@ -1,6 +1,11 @@
-# Team_2_America
+# Clasificiation Models for Loan Defaul Predictions
 
-Team 2 Project Proposal
+## Steps to Run
+1. Clone this repo
+2. Open R Studio
+3. Make sure the dataset is in the folder as the R code/markdown
+4. Run and Enjoy !
+## Project Proposal
 Cooper Atkins, Ricardo Diaz, Varun Shah
 
 Our team will be studying loans in India and their default rates based on customer characteristics. Our primary research questions are as follows:
@@ -41,10 +46,9 @@ Our team will continue studying loans in India and their default rates based on 
 
 •	We also have a test dataset (we used our training dataset to build the model). How do the different models fare when used on the test dataset? 
 
-
 We are hoping to answer the last question, but we may run into time limitations, so we are prioritizing our model selection. 
 
-Considerations:
+## Considerations:
 
 Our dataset is from Kaggle and can be found here and we will be using the "Training Data" dataset, which has around 252K data points. 
 The dataset contains customer data including incomes (in rupees), job experience, home ownership, and other characteristics along with a Risk Flag signaling default vs. non-default loan status.
