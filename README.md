@@ -5,6 +5,13 @@
 2. Open R Studio
 3. Make sure the dataset is in the folder as the R code/markdown
 4. Run and Enjoy !
+
+## Descriptions of Files
+
+Team 2 Project Final.Rmd: Focuses more on the EDA and using statistical method to choose our features / validate our initials hypothesis.
+
+Team 2 Final Project.Rmd : Focusing on the modeling and the theory behind why we choose our final model.
+
 ## Project Proposal
 Cooper Atkins, Ricardo Diaz, Varun Shah
 
